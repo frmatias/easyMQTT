@@ -1,0 +1,16 @@
+{
+    "name": "frmatias/easy-mqtt",
+    "description": "Easy mqtt publish and subscribe",
+    "type": "library",
+    "require-dev": {
+        "php": ">= 5.4"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Francisco Matias",
+            "email": "franciscomatias@cartha.com.br"
+        }
+    ],
+    "minimum-stability": "dev"
+}
