@@ -1,5 +1,6 @@
 # EasyMQTT
 
+  - With this package you can connect you host to a mqtt cloud server, subscrive to a topic and also publish a topic.
 
 
 ****Check the examples files****
