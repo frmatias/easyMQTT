@@ -1,5 +1,7 @@
 # EasyMQTT
+****composer require frmatias/easy-mqtt****
 
+  - With this package you can connect your server to a mqtt cloud server, subscribe a topic and also publish a topic.
 
 
 ****Check the examples files****
