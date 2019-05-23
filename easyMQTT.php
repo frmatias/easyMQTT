@@ -183,8 +183,7 @@ class easyMQTT{
             $multiplier *= 128;
         }while (($digit & 128) != 0);
         $string = $this->read($value);
-        $string = explode('', $string);
-        return $string[1];
+        return $string;
     }
     /* publish: publishes $content on a $topic */
     public function publish($topic, $content,  $retain = 0){
