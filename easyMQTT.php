@@ -1,6 +1,6 @@
 <?php
 
-namespace easyMQTT\easyMQTT;
+namespace easyMQTT;
 
 class easyMQTT{
 
