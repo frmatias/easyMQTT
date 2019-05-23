@@ -12,5 +12,9 @@
             "email": "franciscomatias@cartha.com.br"
         }
     ],
-    "minimum-stability": "dev"
+    "autoload": {
+    "psr-4": {
+        "EasyMQTT\\": "./"
+    }
+}
 }
