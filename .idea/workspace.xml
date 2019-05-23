@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14ec588e-d308-4d7e-b6e8-fa6923b9d821" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/easyMQTT.php" beforeDir="false" afterPath="$PROJECT_DIR$/easyMQTT.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,8 +28,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/easyMQTT.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="185" column="38" selection-start-line="185" selection-start-column="38" selection-end-line="185" selection-end-column="38" />
+            <state relative-caret-position="34">
+              <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -45,8 +46,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/examples/publish.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="19" selection-start-line="18" selection-end-line="19" />
+            <state relative-caret-position="68">
+              <caret line="4" column="60" lean-forward="true" selection-start-line="4" selection-start-column="60" selection-end-line="4" selection-end-column="60" />
             </state>
           </provider>
         </entry>
@@ -73,7 +74,7 @@
     </include_path>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="953" />
+    <option name="x" value="-7" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
@@ -83,6 +84,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -99,12 +101,11 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../laravel-iot" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -133,18 +134,19 @@
       <workItem from="1558127474263" duration="1774000" />
       <workItem from="1558264126080" duration="50000" />
       <workItem from="1558264189781" duration="72000" />
-      <workItem from="1558563846789" duration="764000" />
+      <workItem from="1558563846789" duration="1377000" />
+      <workItem from="1558603882915" duration="2718000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2660000" />
+    <option name="totallyTimeSpent" value="5991000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25799572" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26066098" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -157,7 +159,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32936078" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -182,10 +184,10 @@
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/examples/publish.php">
+    <entry file="file://$PROJECT_DIR$/examples/subscribe.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="19" selection-start-line="18" selection-end-line="19" />
+        <state relative-caret-position="255">
+          <caret line="15" column="40" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
         </state>
       </provider>
     </entry>
@@ -196,17 +198,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/examples/subscribe.php">
+    <entry file="file://$PROJECT_DIR$/examples/publish.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="40" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
+        <state relative-caret-position="68">
+          <caret line="4" column="60" lean-forward="true" selection-start-line="4" selection-start-column="60" selection-end-line="4" selection-end-column="60" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/easyMQTT.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="185" column="38" selection-start-line="185" selection-start-column="38" selection-end-line="185" selection-end-column="38" />
+        <state relative-caret-position="34">
+          <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
         </state>
       </provider>
     </entry>

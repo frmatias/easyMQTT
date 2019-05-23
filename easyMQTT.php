@@ -1,8 +1,8 @@
 <?php
 
-namespace easyMQTT;
+namespace easyMQTT\easyMQTT;
 
-class easyMQTT {
+class easyMQTT{
 
     private $socket; 			/* holds the socket	*/
     private $msgid = 1;			/* counter for message id */
@@ -185,7 +185,6 @@ class easyMQTT {
         $string = $this->read($value);
         $string = explode('', $string);
         return $string[1];
-
     }
     /* publish: publishes $content on a $topic */
     public function publish($topic, $content,  $retain = 0){
